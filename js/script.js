@@ -29,9 +29,4 @@ document.addEventListener('DOMContentLoaded', () => {
             }); 
         }); 
     }); 
-}); 
- 
-2. commit ด้วยข้อความ "เพิ่ม Filter Animations" 
-3. เพิ่ม script ใน gallery.html ก่อนแทกปิด </body> 
- 
-<script src="js/script.js"></script>
+});
